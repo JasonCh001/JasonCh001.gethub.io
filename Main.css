@@ -221,3 +221,23 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 }
+.hamburger-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    /* Light gray background color */
+}
+
+.hamburger-list li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.hamburger-list li:last-child {
+    margin-right: 0;
+}
+
+.hamburger-list li a {
+    text-decoration: none;
+}
