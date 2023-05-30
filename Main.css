@@ -1,9 +1,10 @@
 body {
-    background-image: url("SpaceWallpapers.jpg");
+      background-image: url("pics/SpaceWallpapers.jpg");
     background-repeat: repeat;
     flex;
     flex-wrap: wrap;
     padding: 2em;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: lightblue;
 }
 
@@ -164,12 +165,6 @@ iframe{ position:relative;float: none; padding: 20px;}
 img {
   max-width: 100%;
   height: auto;
-}
-
-
-body {
-    background-image: url("pics/SpaceWallpapers.jpg");
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 * {
